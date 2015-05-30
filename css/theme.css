@@ -1,0 +1,22 @@
+.container-fluid center{
+	position: relative;
+	top: 41vh;
+}
+body { font-family: 'Open Sans Condensed', sans-serif }
+
+footer{
+	position: absolute;
+	bottom: 0px;
+	left: 15px;
+	min-width: 96%;
+}
+footer p{ margin-top: 30px }
+
+.social{ 
+	font-size: 1.5em;
+	margin-right: 15px;
+	margin-left: 15px;
+	margin-top: 25px;
+}
+.fa-facebook{ color: #3b5998 }
+.fa-google-plus{ color: #d34836 }
